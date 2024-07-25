@@ -1,3 +1,7 @@
+# Super Mario Animation
+### You can find the code files for this project in the following locations:
+- #### [pixel art code](https://github.com/LimJuHyung1/ComputerGraphics/blob/main/PixelArt/pixelart.cpp)  
+  
 ![PPT 1](./github_images/1.png)
 ![PPT 2](./github_images/2.png)
 ![PPT 3](./github_images/3.png)
