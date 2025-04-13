@@ -16,7 +16,7 @@
   - OpenGL 저수준 렌더링 구조에 대한 이해도 향상  
 - **[Code](https://github.com/LimJuHyung1/ComputerGraphics/blob/main/PixelArt/pixelart.cpp)**
 
-[GIF](github_images/PixelArtAnimation.gif)
+[슈퍼마리오 픽셀아트 애니메이션 GIF](github_images/PixelArtAnimation.gif)
 
 - - -
   
